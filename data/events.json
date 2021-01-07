@@ -1,0 +1,1 @@
+[null,{"name":"join","temp":"","event-type":"4","actions":[{"channel":"4","varName":"","message":"thanks for adding me\nmy prefix is t!","storage":"0","varName2":"","name":"Send Message"}]},{"name":"NewEvent","temp":"10","event-type":"3","actions":[{"gameName":"t!help","gameLink":"","name":"Set Bot Game"}]}]
